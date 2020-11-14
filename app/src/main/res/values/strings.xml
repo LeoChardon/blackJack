@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">BlackJack by Léo</string>
+    <string name="ButtonAnotherCardtxt">Another card</string>
+    <string name="ButtonNoMoreCardtxt">No more card</string>
+    <string name="ButtonResettxt">Reset</string>
+    <string name="Banktxt">Bank</string>
+    <string name="Playertxt">Player</string>
+    <string name="confirmertxt">Confirm</string>
+    <string name="annulertxt">Cancel</string>
+    <string name="configBlackJacktxt">blackjack settings</string>
+    <string name="fondverttxt">Green background</string>
+    <string name="fondnoirtxt">Dark Background</string>
+    <string name="NumberOfGametxt">Number of deck (52 cards)</string>
+    <string name="moneyInittxt">Initial money</string>
+    <string name="misertxt">bet</string>
+    <string name="yourMisetxt">Your bet: </string>
+    <string name="moneyDevisetxt">$</string>
+    <string name="cantMiseZerotxt">You cannot bet zero</string>
+    <string name="soYourMisetxt">Your current bet: </string>
+    <string name="cantCreatetxt">Creation not worked</string>
+    <string name="deckCardstxt">Cards in the Deck: </string>
+    <string name="tripleMisetxt">You triple your bet! </string>
+    <string name="doubleMisetxt">"You double your bet! </string>
+    <string name="looseMisetxt">You loose your bet! </string>
+    <string name="scoretxt">Score: </string>
+    <string name="scoreOthertxt">Opposing score: </string>
+    <string name="playerJustDrawtxt">Player has just draw</string>
+    <string name="bankJustDrawtxt">Bank has just draw</string>
+    <string name="lookAtTheBottomtxt">You can bet at the bottom </string>
+    <string name="remisetxt">Your new bet: </string>
+    <string name="playerNameEdittxt">Player name: </string>
+    <string name="currentLang">American</string>
+    <string name="actionConfirmtxt">Actions confirmed</string>
+    <string name="actionCanceltxt">Actions canceled</string>
+    <string name="noMoreCard">No more card!</string>
+    <string name="messageNoMore">You have to restart a game</string>
+</resources>

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">BlackJack by Léo</string>
+    <string name="ButtonAnotherCardtxt">Une autre carte</string>
+    <string name="ButtonNoMoreCardtxt">Plus de carte</string>
+    <string name="ButtonResettxt">Reset</string>
+    <string name="Banktxt">Banque</string>
+    <string name="Playertxt">Joueur</string>
+    <string name="confirmertxt">confirmer</string>
+    <string name="annulertxt">annuler</string>
+    <string name="configBlackJacktxt">Configuration blackjack</string>
+    <string name="fondverttxt">fond vert</string>
+    <string name="fondnoirtxt">fond noir</string>
+    <string name="NumberOfGametxt">Nombre de jeux de 52 cartes</string>
+    <string name="moneyInittxt">Argent initial</string>
+    <string name="misertxt">miser</string>
+    <string name="yourMisetxt">Mise: </string>
+    <string name="moneyDevisetxt">€</string>
+    <string name="cantMiseZerotxt">Vous ne pouvez pas rien miser</string>
+    <string name="soYourMisetxt">Vous misez donc </string>
+    <string name="cantCreatetxt">La creation n\'as pas marché</string>
+    <string name="deckCardstxt">Cartes du Deck: </string>
+    <string name="tripleMisetxt">Vous triplez votre mise! </string>
+    <string name="doubleMisetxt">"Vous doublez votre mise! </string>
+    <string name="looseMisetxt">Vous perdez votre mise! </string>
+    <string name="scoretxt">Score: </string>
+    <string name="scoreOthertxt">Score adverse: </string>
+    <string name="playerJustDrawtxt">Le joueur viens de piocher</string>
+    <string name="bankJustDrawtxt">La bank viens de jouer</string>
+    <string name="lookAtTheBottomtxt">Remisez en bas pour jouer </string>
+    <string name="remisetxt">Remisez: </string>
+    <string name="playerNameEdittxt">Nom du joueur: </string>
+    <string name="currentLang">Français</string>
+    <string name="actionConfirmtxt">Actions Confirmées</string>
+    <string name="actionCanceltxt">Actions annulées</string>
+    <string name="noMoreCard">Plus de carte!</string>
+    <string name="messageNoMore">Vous devez redemarrer une partie</string>
+
+
+</resources>
